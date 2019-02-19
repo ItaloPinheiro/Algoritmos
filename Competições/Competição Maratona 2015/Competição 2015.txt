@@ -1,0 +1,17 @@
+Feitos:
+C - Tri-du - Iniciante
+J - Jogo da Estratégia - Ad-hoc
+A - Mania de Par - Grafos
+H - Praça do Retangulo - Geometria - DIFICIL
+D - Quebra-Cabeça - Ad-hoc/maps
+F - Fatorial - Ad-hoc/Matematica 
+
+A Fazer:
+B - Bolsa de Valores - PD - ngm fez
+E - Espiral - Ad-hoc/lógica - ngm fez
+K - Palíndromo - Strings - ngm fez
+
+Niveis Altos: - ngm fez
+G - Guardiões Curiosos - Ad-hoc
+I - Ominobox - IMPOSSIVEL
+L - Loteria - Ad-hoc

@@ -1,0 +1,16 @@
+Feitos:
+K - Pizza - Geometria
+B - Baralho Embaralhado - Sort
+H - Handebol - Ad-hoc
+A - Volta - Ad-Hoc
+C - Confederação - Ad-hoc
+G - Letras - Ad-hoc
+
+A Fazer:
+D - Dona Minhoca - Grafos
+F - Teletransporte - Grafos
+
+Niveis Altos:
+E - Ecologia - Ad-hoc
+I - RSA - Ad-hoc
+J - Corte - Ad-hoc

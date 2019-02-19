@@ -1,0 +1,16 @@
+Feitos:
+A - Zerinho ou Um - Iniciante
+E - Mergulho - Ad-hoc
+F - Triângulos - Ad-hoc
+I - Remendo - PD
+C - Chefe - DFS
+
+A fazer:
+
+
+Niveis Altos: ngm fez
+B - Balão 
+D - Maquina de Dobra
+G - Linhas de Conteiners
+H - ÔNIBUS - PD
+J - Caminhão

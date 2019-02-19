@@ -1,0 +1,19 @@
+Feitos:
+A - Concurso de Contos - String
+B - Tobogan de bolinhas - Geometria
+C - Cartões - PD
+G - Grid de Largada - Ad-Hoc
+D - Coral Perfeito - Ad-Ho
+F - Perdido da Noite - Grafos
+
+À Fazer:
+H - Combate ao Câncer - Árvore - mt dificil
+
+Niveis Altos:
+E - Elevador Espacial - Combinatória
+I - Integral - Matemética e Integral - mt dificil
+J - Palavras - Autômatos
+K - Ciclo de Rubik - Combinatória
+L - Estrela - Mat. e Teoria dos Num.
+
+
